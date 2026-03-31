@@ -12,7 +12,7 @@ CamSoda Downloader is a browser extension built for users who want a simpler way
 
 ## Links
 
-- :rocket: Get it here: [CamSoda Downloader](https://serp.ly/camsoda-video-downloader)
+- :rocket: Get it here: [CamSoda Downloader](https://serp.ly/camsoda-downloader)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/camsoda-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/camsoda-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/camsoda-video-downloader](https://serp.ly/camsoda-video-downloader)
+Start here: [https://serp.ly/camsoda-downloader](https://serp.ly/camsoda-downloader)
 
 ## Installation Instructions
 
