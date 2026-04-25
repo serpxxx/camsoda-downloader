@@ -1,4 +1,4 @@
-# CamSoda Downloader
+# CamSoda Downloader Browser Extension
 
 > Record CamSoda live streams and download saved videos as MP4 files from your browser.
 
