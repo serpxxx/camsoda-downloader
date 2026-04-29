@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "camsoda-downloader",
   "readme": "../ACTOR.md",
-  "title": "CamSoda Downloader Browser Extension",
+  "title": "CamSoda Downloader",
   "version": "0.0"
 }
