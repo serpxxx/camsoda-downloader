@@ -1,8 +1,12 @@
-# CamSoda Downloader
+# CamSoda Video Downloader | How to Download CamSoda Videos
 
 > Record CamSoda live streams and download saved videos as MP4 files from your browser.
 
-![Camsoda Downloader](https://raw.githubusercontent.com/serpxxx/camsoda-downloader/main/assets/workflow-preview.webp)
+## Get it Here
+
+Get it here: https://serp.ly/camsoda-downloader
+
+![CamSoda Downloader](https://raw.githubusercontent.com/serpxxx/camsoda-downloader/main/assets/workflow-preview.webp)
 
 CamSoda Downloader is a browser extension built for users who want a simpler way to keep CamSoda broadcasts and saved videos available offline. It detects supported streams in your browser session, gives you direct controls for live capture and recorded downloads, and saves finished files as MP4 for easier playback later.
 
@@ -11,11 +15,6 @@ CamSoda Downloader is a browser extension built for users who want a simpler way
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
 - Use in-page controls, popup controls, or right-click actions
-
-## Get it Here
-
-Get it here: https://serp.ly/camsoda-downloader
-
 ## Table of Contents
 
 - [Why CamSoda Downloader](#why-camsoda-downloader)
