@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Camsoda Downloader is a powerful tool that helps you download content from Camsoda instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "description": "CamSoda Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "camsoda-downloader",
   "readme": "../ACTOR.md",
-  "title": "CamSoda Downloader",
+  "title": "CamSoda Video Downloader | How to Download CamSoda Videos",
   "version": "0.0"
 }
